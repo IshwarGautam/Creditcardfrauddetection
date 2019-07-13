@@ -1,0 +1,9 @@
+Overview of the project
+Data Analysis
+Show the difference between normal and fraud(imbalance datasets)
+why we need to do sub process(effects of imbalance data)
+techniques to solve imbalance dataset
+train using different techniques 
+see the result
+since confusion matrix is not good for these imbalance data
+we measure accuracy using the Area Under the Precision-Recall Curve (AUPRC).
